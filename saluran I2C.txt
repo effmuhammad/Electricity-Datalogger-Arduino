@@ -1,0 +1,4 @@
+Scanning...
+I2C device found at address 0x3F // LCD
+I2C device found at address 0x68 // RTC
+done

@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files (x86)/Arduino/libraries/**",
+                "C:/Users/Owner/Documents/Arduino/libraries/**",
+                "C:/Users/Owner/Documents/Arduino/libraries/DS3231/**",
+                "C:/Users/Owner/Documents/Arduino/libraries/LiquidCrystal_I2C/**",
+                "C:/Users/Owner/Documents/Arduino/libraries/SD-master",
+                "C:/MinGW/x86_64-w64-mingw32/include",
+                "C:/Program Files (x86)/Arduino/libraries/WiFi/extras/wifiHD/src/SOFTWARE_FRAMEWORK/DRIVERS/SPI"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\cpp",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
